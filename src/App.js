@@ -1,7 +1,13 @@
 import logo from './logo.svg';
+import { useState } from "react";
 import './App.css';
 
 function App() {
+
+  const [count, setCount] = useState(0);
+
+  const w = new Worker("worker.js");
+  
   return (
     <div className="App">
       <header className="App-header">
