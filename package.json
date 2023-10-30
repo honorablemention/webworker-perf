@@ -1,7 +1,7 @@
 {
   "name": "webworker-example",
   "version": "0.1.0",
-  "homepage": "https://honorablemention.github.io/webworker-perf",
+  "homepage": "https://honorablemention.github.io/webworker-perf/",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
