@@ -1,1 +1,0 @@
-export const sampleData = () => Array.from({ length: 500000 }, (_, i) => Math.random()*500000);
